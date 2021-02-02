@@ -1,33 +1,33 @@
 var questions = [
     {
-        title: "Commonly used data types DO NOT include:",
-        choices: ["strings", "booleans", "alerts", "numbers"],
-        answer: "alerts"
+        title: "what city was Prophet Muhammad born in?:",
+        choices: ["Jeddah", "Madina", "Mecca", "Riyadh"],
+        answer: "Mecca"
     },
     {
-        title: "The condition in an if / else statement is enclosed within ____.",
-        choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-        answer: "parentheses"
+        title: "What is another name for Surah al-Fatiha",
+        choices: ["Umm Al-Kitab", "Ash-shifa", "the opener", "all of the above"],
+        answer: "all of the above"
     },
     ///etc.
     {
-        title: "Data is stored in localStorage as _____.",
-        choices: ["strings", "objects", "arrays", "all of the above"],
-        answer: "strings"
+        title: "Where did the prophet recieve revelation",
+        choices: ["Mount Hira", "Mount Uhud", "Mount Arafat", "Mount Hua"],
+        answer: "Mount Hira"
     },
     {
-        title: "Which of the following is NOT a method to call an element with class 'example'?",
-        choices: ["document.getElementsByClassName( 'example');", "document.body.example;", "document.querySelector( '.example')", "document.querySelectorAll( '.example')[0]"],
-        answer: "document.body.example;"
+        title: "Who did the trial of apostasy fall on?",
+        choices: ["Umar", "Abu Bakr", "Uthman", "Ali"],
+        answer: "Abu Bakr"
     },
     {
-        title: "Arrays in JavaScript can be used to store ______.",
-        choices: ["strings", "numbers", "objects", "All of the Above"],
-        answer: "All of the Above"
+        title: "Who was declared by Muhammad as the best archer in his time",
+        choices: ["Saad ibn Waqqas", "Umar", "Khalid ibn Walid ", "Ali ibn Abi Talib"],
+        answer: "Saad ibn Waqqas"
     },
     {
-        title: "Undefined does NOT mean that _______.",
-        choices: ["the variable in the code doesn't exist", "the variable is not assigned to a value", "the variable is assigned no value", "the property doesn't exist"],
-        answer: "the variable is assigned no value"
+        title: "What is the true Religion?",
+        choices: ["Christianity", "Buddism", "Islam", "Hinduism"],
+        answer: "Islam"
     }
 ];
